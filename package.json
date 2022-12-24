@@ -1,13 +1,17 @@
 {
   "name": "eslint-plugin-test-fsd",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "FSD rules checker",
   "keywords": [
     "eslint",
     "eslintplugin",
     "eslint-plugin"
   ],
-  "author": "dns",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frenzymind/test-fsd"
+  },
+  "author": "Nikolai Zein",
   "main": "./lib/index.js",
   "exports": "./lib/index.js",
   "scripts": {
