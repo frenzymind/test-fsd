@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-test-fsd",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "FSD rules checker",
   "keywords": [
     "eslint",
