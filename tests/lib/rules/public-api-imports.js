@@ -1,6 +1,6 @@
 /**
- * @fileoverview descr
- * @author timur
+ * @fileoverview Deny non public api imports
+ * @author Nikolai Zein
  */
 'use strict'
 

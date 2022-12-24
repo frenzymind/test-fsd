@@ -1,6 +1,6 @@
 /**
  * @fileoverview Deny import from upper layers
- * @author NIkolai Zein
+ * @author Nikolai Zein
  */
 'use strict'
 

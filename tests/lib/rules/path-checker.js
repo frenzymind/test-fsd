@@ -1,6 +1,6 @@
 /**
  * @fileoverview fsd relative path checker
- * @author dns
+ * @author Nikolai Zein
  */
 'use strict'
 
